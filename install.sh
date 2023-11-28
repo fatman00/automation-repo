@@ -15,4 +15,10 @@ DEVNET-IOSXE:
   password: C1sco12345
   device_type: ios
 
+CAT8Kv:
+  ip: 198.18.134.49
+  username: admin
+  password: C1sco12345
+  device_type: ios
+
 sudo docker-compose up -d
