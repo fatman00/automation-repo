@@ -13,6 +13,6 @@ DEVNET-IOSXE:
   ip: sandbox-iosxe-latest-1.cisco.com
   username: admin
   password: C1sco12345
-  device_type: iosxe
+  device_type: ios
 
 sudo docker-compose up -d
