@@ -38,7 +38,7 @@ services:
 EOF
 
 sudo docker-compose up -d
-sudo docker compose exec netbox /opt/netbox/netbox/manage.py createsuperuser
+sudo docker-compose exec netbox /opt/netbox/netbox/manage.py createsuperuser
 
 cd ..
 #install and run Node-Red
