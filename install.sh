@@ -11,7 +11,7 @@ nano app/device_inventory.yaml
 
 DEVNET-IOSXE:
   ip: sandbox-iosxe-latest-1.cisco.com
-  username: developer
+  username: admin
   password: C1sco12345
   device_type: iosxe
 
